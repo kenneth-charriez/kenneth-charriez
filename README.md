@@ -1,16 +1,101 @@
-## Hi there 👋
 
-<!--
-**kenneth-charriez/kenneth-charriez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kenneth Charriez 👋
 
-Here are some ideas to get you started:
+🤗 Kenneth is an AI Software Engineer (open) with 12 years of experience in Agentic RL, multi-modal agent reasoning, and scalable LLM/VLM systems. With a strong background in speculative decoding, distributed training, and high-throughput inference, Kenneth also brings expertise in multi-agent orchestration, Transformer architectures, mixture-of-experts (MoE), and algorithmic optimization, enabling him to design and scale advanced AI systems end-to-end. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long-term thinker, resilient collaborator, and builder of high-impact AI systems.
+
+
+- **[1. Awesome-AI-Engineer-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
+  In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
+  - <mark>[__2025 NVIDIA GTC Conference − Technical & Industrial Insight__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Review" alt="GitHub Stars" />
+  - <mark>[__2025 Agentic AI Summit Berkeley − Technical & Industrial Insight__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/Agentic%20AI%20Summit/Agentic%20AI%20Summit%20Berkeley%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Overview" alt="GitHub Stars" />
+- **[2. Agentic RL: GRPO Reinforcement Learning for Agentic Search in LLMs](https://github.com/junfanz1/GRPO)**  
+  Search-R1 leverages Group Relative Policy Optimization (GRPO) to fine-tune LLMs at the token level, enabling stable reinforcement learning over multi-step search–reasoning trajectories. The model learns adaptive retrieval policies, deciding when to trigger searches and integrating results into its reasoning context for more precise answers.
+- **[3. MiniGPT-and-DeepSeek-MLA-Multi-Head-Latent-Attention](https://github.com/junfanz1/DeepSeek-MLA)**  
+  Memory-efficient multi-head latent attention in PyTorch, that leverages low-rank approximation and decoupled rotary positional embeddings, to compress key–value representations, reducing inference memory while maintaining high performance in long-context language models. 
+- **[4. DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
+  Implemented scalable 8-expert MoE model with top-k routing, expert load balancing, and capacity-aware gating; enabled parallel sparse activation and DeepSeek-R1-style distributed training scalability.
+- **[5. MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-Servers)**  
+  A decoupled real-time agent architecture connecting LangGraph agents to remote tools served by custom MCP servers via SSE and STDIO, enabling a scalable multi-agent system for LLM workflows. The design supports flexible multi-server connectivity and lays the groundwork for an Agent2Agent protocol, fostering seamless, cloud-deployable interoperability across diverse AI systems.
+- **[6. LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
+  Engineered LangGraph-based multi-agent system with self-reflection and retrieval-grounded alignment; integrated LangSmith trace for reasoning introspection, cutting hallucination 40% with iterative expert routing.
+- **[7. Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
+  Advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
+- **[8. Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
+  Cursor Vibe Engineering: Full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics. 
+- **[9. Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
+  Comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach.
+  
+<div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
+  <table style="border-collapse: collapse; transform: scale(0.5); transform-origin: 0 0;">
+    <tr>
+      <td style="padding: 0;">
+        <img src="https://github.com/user-attachments/assets/17a05ffb-200b-437e-9b66-cd003abc6c8e" 
+             style="display: block; width: 300px; height: auto;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 2px 0 0 0;">
+        <em style="display: block; font-size: 12px; line-height: 1; margin: 0;">Favorite project integrating Generative AI, Humanoid Robotics (RLHF), and Low-Altitude Economy.</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge&logo=langchain&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-0053FF?style=for-the-badge&logo=pydantic&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## 🌏 Fun Facts
+
+I’m a traveler ✈️, violinist 🎻, licensed [hunter](https://www.linkedin.com/in/junfan-zhu/details/certifications/1976607383/multiple-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8&treasuryMediaId=1755410381790) with [firearm](https://www.linkedin.com/in/junfan-zhu/details/certifications/1755410615994/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🔫 , certified [boater](https://www.linkedin.com/in/junfan-zhu/details/certifications/814938124/multiple-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8&treasuryMediaId=1755309471918) ⛵, amateur [bartender](https://www.linkedin.com/in/junfan-zhu/details/certifications/1706288434402/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🍷 and aspiring [private pilot](https://www.linkedin.com/in/junfan-zhu/details/certifications/1741645996996/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🚁. My passport has seen more stamps than a post office! 🛂 Having visited 6 continents 🗺️, 60+ countries/regions 🌐, USA 50 states & 50+ national parks 🏞️. 
+
+I summited 🇹🇿 [Kilimanjaro Uhuru Peak (5895m) at the Roof of Africa](https://reservations.tanzaniaparks.go.tz:8090/VisitorsRerification.aspx?xID=2476363&xPermitCode=TNP/KI_MA/0044528) 🦒, trekked 🇳🇵 Annapurna Base Camp 🏔, hiked 🇬🇹 Volcán de Fuego 🌋, traversed a desert in 🇨🇳 Inner Mongolia 🏜, and completed 2 marathons (PB within 5h) 🏃. 
+
+My expeditions have taken me to beautiful adventurous journeys, such as 🇳🇴 Longyearbyen & Barentsburg (🥶 icebreaker ⛴) in Svalbard 🌌, 🇨🇱 Rapa Nui🗿, 🇨🇦 Iqaluit Nunavut 🐋, 🇦🇷 Ushuaia 🐧, 🇺🇸 Unalaska & Cold Bay in Aleutian Islands🗻 / Utqiaġvik & Prudhoe Bay Alaska ❄️, 🇨🇳 Tibet 🌄, 🇵🇫 Bora Bora 🪸, 🇺🇸 Molokaʻi 🏝️, 🇪🇨 middle of the Earth 🌎 and so on. These experiences have shaped my adaptability 👽, problem-solving skills ✍️, and global perspective 🌊.
+
+📖 Motto: "Every man carries within him a world, composed of all that he has seen and loved, and it is to this world that he constantly returns, even when he seems to be journeying and living in another different world." — Chateaubriand, "Voyages en Italie" 🌅
+
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img width="48%" src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
+</div>
+
+
